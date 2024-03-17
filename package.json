@@ -54,6 +54,7 @@
     "webpack-merge": "^5.10.0"
   },
   "dependencies": {
+    "rxjs": "^7.8.1",
     "vue": "^3.4.21"
   }
 }
